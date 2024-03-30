@@ -16,6 +16,10 @@ The app can help you:
 
 ![Untitled](https://github.com/emmedibi/mealManager/assets/55384897/7204e087-35fa-4aa8-870e-363f125ede55)
 
+The classes present in the application are:
+- Recipe
+- Meal
+- WeeklyPlan
 
 ### Add a new recipe
 
@@ -39,7 +43,7 @@ In the searching bar, you can write down a word. This word will be search in all
 
 The recipes will be displayed in alphabetical order.
 
-### Add your weekly plan
+### Add your weekly plan + add a meal
 
 In this section, it’s possible to select a series of recipe to cook in the week and the system automatically generate the grocery list.
 
