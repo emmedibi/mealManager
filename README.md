@@ -21,15 +21,7 @@ The app can help you:
 
 Clicking this button, you have to write a series of information about the recipe you want to add.
 
-(id)
-- Name of the recipe;
-- preparation time;
-- cooking time;
-- ingredient;
-- instructions;
-- photo.
-
-
+![Untitled(1)](https://github.com/emmedibi/mealManager/assets/55384897/9c9fdace-9147-4ee5-8b4a-84b9f432a2e0)
 
 ### Search for a recipe
 
@@ -47,17 +39,12 @@ In the searching bar, you can write down a word. This word will be search in all
 
 The recipes will be displayed in alphabetical order.
 
-### Your weekly plan
+### Add your weekly plan
 
 In this section, it’s possible to select a series of recipe to cook in the week and the system automatically generate the grocery list.
 
-This section has a subsection “grocery list” that you can read export, for example through a mail.
+![Untitled(2)](https://github.com/emmedibi/mealManager/assets/55384897/6f66f4a1-3aa9-4250-83e3-c5652483c2f6)
 
-Every weekly plan has:
-
-- starting date
-- List of recipes
-- Map(key: DAY_OF_THE_WEEK&MEAL, value: id_recipe)
 
 ***Example:***
 
@@ -70,6 +57,3 @@ It could be helpful writing the time, because in this way the plan could be plac
 ### Analytics
 
 It shows the most frequent cooked recipes, the most frequent ingredients used and others….
-
-## Diagram
-
