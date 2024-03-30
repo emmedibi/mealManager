@@ -58,6 +58,13 @@ DAY_OF_THE_WEEK&MEAL is a DateTime where the Time is set on Breakfast (08:00), M
 
 It could be helpful writing the time, because in this way the plan could be placed in a calendar.
 
+### Show the grocery list
+
+In this section, it's possible to extract the ingredients of the recipes added in a weeklyPlan
+
+![Untitled(3)](https://github.com/emmedibi/mealManager/assets/55384897/d1952952-216c-43b8-a477-91f244816443)
+
+
 ### Analytics
 
 It shows the most frequent cooked recipes, the most frequent ingredients used and others….
