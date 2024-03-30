@@ -13,7 +13,9 @@ The app can help you:
 ##DIAGRAMS AND ACTIONS
 
 ### Class Diagram
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/c89a6000-2d63-4589-aeb4-551ec1e26e55/c1e5603a-65fc-44be-98bf-56f1e18dcc5b/Untitled.png)
+
+![Untitled](https://github.com/emmedibi/mealManager/assets/55384897/7204e087-35fa-4aa8-870e-363f125ede55)
+
 
 ### Add a new recipe
 
