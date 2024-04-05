@@ -14,7 +14,8 @@ The app can help you:
 
 ### Class Diagram
 
-![Untitled](https://github.com/emmedibi/mealManager/assets/55384897/7204e087-35fa-4aa8-870e-363f125ede55)
+![immagine](https://github.com/emmedibi/mealManager/assets/55384897/e82729b8-80bf-4374-84f4-7bab4c22f4ad)
+
 
 The classes present in the application are:
 - Recipe
